@@ -4,4 +4,6 @@ In [ADs](Architecture_Description.md), one consequence of employing multiple [vi
 
 Correspondence rules are used to enforce [relations](Correspondence.md) within an [architecture description](Architecture_Description.md). A correspondence rule **holds** if an associated [correspondence](Correspondence.md) can be shown to satisfy the rule. A correspondence rule is **violated** if an associated [correspondence](Correspondence.md) can be shown not to satisfy the rule or when no associated [correspondence](Correspondence.md) exists.
 
-Requirement : An [architecture description](Architecture_Description.md) shall include each **correspondence rule** applying to it.
+
+> [!WARNING] Requirements
+> An [architecture description](Architecture_Description.md) shall include each **correspondence rule** applying to it.

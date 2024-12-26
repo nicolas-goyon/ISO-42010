@@ -19,4 +19,6 @@ Examples :
 - Obligation
 
 [AD Elements](Architecture_Description_Element.md) in a **correspondence** need not be distinct. A **correspondence** can be defined between an [AD element](Architecture_Description_Element.md) and itself.
-Requirement : Each correspondence in an [AD](Architecture_Description.md) shall be identified and identify its participating [AD elements](Architecture_Description_Element.md).
+
+> [!WARNING] Requirements
+> Each correspondence in an [AD](Architecture_Description.md) shall be identified and identify its participating [AD elements](Architecture_Description_Element.md).

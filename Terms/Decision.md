@@ -11,7 +11,8 @@ An Architecture decision can affect the [architecture](Architecture.md) in sever
 
 An Architecture decision can raise additional [Stakeholder](Stakeholder.md) [Concerns](Concern.md).
 
-Requirement : An [AD](Architecture_Description.md) should record architecture decision considered to be key to the [architecture](Architecture.md) of the [system of interest](System_of_Interest.md). *(It is not practical to record every architecture decision about a [system](System.md).)*
+> [!WARNING] Requirements
+> An [AD](Architecture_Description.md) should record architecture decision considered to be key to the [architecture](Architecture.md) of the [system of interest](System_of_Interest.md). *(It is not practical to record every architecture decision about a [system](System.md).)*
 
 It can be useful to record relationship dependencies between architecture decision :
 

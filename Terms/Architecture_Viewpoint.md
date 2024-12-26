@@ -12,8 +12,10 @@ An **Architecture viewpoint** :
 - Scopes these conventions to frame a specific set of [Concerns](Concern.md).
 - Codify application-specific, method-specific, or organization-specific approaches to capture, organize and share [system of interest](System_of_Interest.md) knowledge.
 
-Reuirement : Each [concern](Concern.md) identified shall be framed by at least one **viewpoint**.
-An [AD](Architecture_Description.md) shall include excactly one [Architecture view](Architecture_View.md) for each **Architecture viewpoint** used.
+> [!IMPORTANT] Requirements
+> Each [concern](Concern.md) identified shall be framed by at least one **viewpoint**.
+> 
+> An [AD](Architecture_Description.md) shall include excactly one [Architecture view](Architecture_View.md) for each **Architecture viewpoint** used.
 
 ## Value of Architecture viewpoints
 
